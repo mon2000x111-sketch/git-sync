@@ -1,4 +1,4 @@
-# git-sync
+ # git-sync
 
 Synchronize tracking repositories.
 
